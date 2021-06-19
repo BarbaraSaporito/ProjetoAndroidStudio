@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_restaurante.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_list_restaurante.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_restaurante_param.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_list_restaurante_param.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_upt_usu.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_upt_usu.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_restaurante.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_add_restaurante.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_usu_param.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_list_usu_param.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_usu.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_add_usu.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_list_usu.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_list_usu.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_upt_restaurante.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_upt_restaurante.xml"
+    },
+    {
+        "merged": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\AparecidaNunesSapori\\Downloads\\AppBarbara\\AppBarbara\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]
